@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+   <title>PDF Generation Using Velocity & OpenPDF/IText</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+   <meta name="format-detection" content="telephone=no" />
+</head>
+<body style="margin:0px auto; padding:0px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#d9d9d9">
+   <tr>
+      <td valign="top" align="center">
+         <table align="center" width="600" border="0" cellspacing="0" cellpadding="0" style="width:600px; table-layout:fixed;" bgcolor="#ffffff">
+            <tbody>
+	            <tr>
+	            	<td width="100%" height="20rem" valign="center" align="left" bgcolor="#003976" style="padding:4rem;">
+	            		<h4>Hello ${username}</h4>
+	            	</td>
+	            </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table>
+</body>
+</html>
